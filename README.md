@@ -34,6 +34,7 @@
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/>
   <img src="https://profile-counter.glitch.me/lungphage/count.svg" />
 </p>
 
