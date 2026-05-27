@@ -38,5 +38,4 @@
 
 <!-- can't stop myself from editing🤷... -->
 
-### 关于我
-- [个人网站](https://liuzifeng.jxlab.team/)
+[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=sunset&sticker=rainbow&w=480)](https://ip.net.coffee/ip/ "查看 IP")
