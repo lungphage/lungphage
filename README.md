@@ -34,3 +34,4 @@
 <!-- can't stop myself from editing🤷... -->
 
 [![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=starry&sticker=rainbow&w=480)](https://ip.net.coffee/ip/ "查看 IP")
+[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
